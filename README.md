@@ -8,11 +8,11 @@ Components used:
 * 16x2 LCD panel
 * 2 Button switches
 * Connecting wires 
-* 1 X 6x128 pcb breadbord
-* 1 X 6 * 32 pcb breadbord
+* 6x128 pcb breadbord
+* 6x32 pcb breadbord
 * Resistance 220 Ohm x 2
 * Resistance 100 Ohm x 1
-* MAX Driver
+* MAX Driver for LED Matrix
 
 Image:
 https://imgur.com/a/LELJMOY
